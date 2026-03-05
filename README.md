@@ -1,4 +1,4 @@
-Now I have a much better picture of the project! Here's the full README:
+
 
 ````markdown
 # 🛒 Amazon Clone
