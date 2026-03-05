@@ -1,6 +1,3 @@
-
-
-````markdown
 # 🛒 Amazon Clone
 
 A front-end Amazon clone built with HTML, CSS, and vanilla JavaScript. Developed as the main project during the [SuperSimpleDev](https://www.youtube.com/@SuperSimpleDev) JavaScript course.
@@ -47,6 +44,3 @@ A front-end Amazon clone built with HTML, CSS, and vanilla JavaScript. Developed
 - JavaScript (ES Modules)
 - [Day.js](https://day.js.org/) for date formatting
 - Backend API (SuperSimpleDev)
-````
-
-This one's a lot more impressive than the others — worth making sure the README reflects that! Let me know when you have the next one.
